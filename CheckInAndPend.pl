@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
-#2014-02-19		Lana Zwart		This script automatically checks in
-#    							and pends .cbl and .uex components in bulk
+#2014-02-19	Lana Zwart	This script automatically checks in
+#    				and pends .cbl and .uex components in bulk
 #                               This was created for the Forward Fit Project	
 #                               SOE088 that requires many components to be
 #                               checked in
